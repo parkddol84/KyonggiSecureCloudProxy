@@ -19,10 +19,10 @@ import com.sugarsync.sample.util.SugarSyncHTTPGetUtil;
 import com.sugarsync.sample.util.XmlUtil;
 
 
-public final class SugarSync implements CSPInterface{
+public final class SugarSyncProvider implements CSPInterface{
 	
 	private String mAccessToken;
-	public SugarSync(String id,String pw){
+	public SugarSyncProvider(String id,String pw){
 		try{
 			mAccessToken = requestAccessToken(id,pw);
 		}catch(Exception e){

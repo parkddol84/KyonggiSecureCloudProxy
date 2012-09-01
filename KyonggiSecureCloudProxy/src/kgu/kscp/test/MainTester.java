@@ -1,3 +1,5 @@
+package kgu.kscp.test;
+
 import java.io.File;
 
 import javax.crypto.spec.IvParameterSpec;
@@ -17,13 +19,12 @@ public class MainTester {
 
 		FileEncrypter encrypter = new FileEncrypter(key, ivspec);
 
-		encrypter.encrypt(new File("files/RACS.pptx"), new File("files/encryptedFiles/encryptedRACS.pptx"));
-		
-		
+		encrypter.encrypt(new File("files/RACS.pptx"), new File(
+				"files/encryptedFiles/encryptedRACS.pptx"));
+
 		Encoder.encoding("files/encryptedFiles/encryptedRACS.pptx", 3, 1);
-		
+
 		System.out.println("Ended...");
-		
 
 	}
 

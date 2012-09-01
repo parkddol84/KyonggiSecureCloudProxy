@@ -11,5 +11,6 @@
 	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/httpcore-4.1.2.jar"/>
 	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/httpmime-4.1.2.jar"/>
 	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/json-simple-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
