@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="lib/httpmime-4.1.2.jar"/>
 	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
 	<classpathentry kind="lib" path="lib/sugarsync-api-sample.jar"/>
+	<classpathentry kind="lib" path="lib/KTOpenApiLibrary.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
