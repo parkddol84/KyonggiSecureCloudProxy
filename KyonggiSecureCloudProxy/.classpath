@@ -2,15 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/sugarsync-api-sample.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/commons-codec-1.2.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/commons-codec-1.4.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/commons-logging-1.0.4.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/httpclient-4.1.2.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/httpclient-cache-4.1.2.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/httpcore-4.1.2.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/httpmime-4.1.2.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/commons-httpclient-3.1.jar"/>
-	<classpathentry kind="lib" path="/root/git/repo/KyonggiSecureCloudProxy/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/dropbox-java-sdk-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/sugarsync-api-sample.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
